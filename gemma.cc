@@ -1,3 +1,5 @@
+// Activate code
+// ./gemma.cpp/build/gemma --model 7b-it --compressed_weights ./7b-it-sfp/7b-it-sfp.sbs --tokenizer ./7b-it-sfp/tokenizer.spm
 // Copyright 2024 Google LLC
 // SPDX-License-Identifier: Apache-2.0
 //
